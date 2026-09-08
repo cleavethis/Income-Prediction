@@ -1,4 +1,5 @@
 # Adult Income Classification
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rickname/adult-income-classification/blob/main/ML_In_The_Morning_1_cleaned.ipynb)
 
 Predicting whether an individual's income exceeds $50K/year using the
 UCI Adult (Census Income) dataset.
